@@ -13,6 +13,8 @@ namespace VS_2017_Demo
             //Local changes
 
             //some more changes
+
+            //more changes
         }
     }
 }

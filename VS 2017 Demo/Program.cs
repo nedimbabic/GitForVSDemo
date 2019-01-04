@@ -17,6 +17,10 @@ namespace VS_2017_Demo
             //more changes
 
             //last change before push
+
+            //Feature 1.1 change
+
+            //Additional 1.1 change
         }
     }
 }
